@@ -12,8 +12,21 @@ h2 {
 
 
 h3 {
-    color: #ff9999;
+    color: #33ccff;
     font-family: Helvetica;
     font-size: 600 px;
+}
+
+nav {
+    display: block;
+}
+
+.menu {
+	background-color: #ccffcc;
+}
+
+.about{
+	color: #ffffff;
+	background-color: #0099ff;
 }
 
