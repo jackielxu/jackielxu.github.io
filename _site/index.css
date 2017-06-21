@@ -1,0 +1,32 @@
+h1 { 
+    color: #0099ff;
+    font-family: Helvetica;
+    font-size: 2000 px;
+}
+
+h2 {
+    color: #66ccff;
+    font-family: Helvetica;
+    font-size: 600 px;
+}
+
+
+h3 {
+    color: #33ccff;
+    font-family: Helvetica;
+    font-size: 600 px;
+}
+
+nav {
+    display: block;
+}
+
+.menu {
+	background-color: #ccffcc;
+}
+
+.about{
+	color: #ffffff;
+	background-color: #0099ff;
+}
+
